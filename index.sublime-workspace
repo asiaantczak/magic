@@ -1,0 +1,214 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gets",
+				"getSearchResult"
+			],
+			[
+				"return",
+				"returnKeyword"
+			],
+			[
+				"htt",
+				"httpRequest"
+			],
+			[
+				"weather",
+				"weatherRequest"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Kodowanie/projekt programistka wyzwanie/WYZWANIE HTML5 and CSS/PROJEKTY STRON WWW/school drive/index.html",
+		"/F/Kodowanie/projekt programistka wyzwanie/WYZWANIE HTML5 and CSS/PROJEKTY STRON WWW/school drive/css/style.css",
+		"/F/Kodowanie/Free Code Camp/wikipedia viewer/js/script.js",
+		"/F/Kodowanie/Free Code Camp/wikipedia viewer/css/style.css",
+		"/F/Kodowanie/Free Code Camp/wikipedia viewer/index.html",
+		"/C/Users/Asus/Desktop/version-control/reflections/asteroids/game.js",
+		"/C/Users/Asus/pappu-pakia/js/utils.js",
+		"/C/Users/Asus/desktop/version-control/reflections/lesson_1_reflections.txt",
+		"/F/Kodowanie/Free Code Camp/weather app/js/main.js",
+		"/C/Users/Asus/Desktop/script.js",
+		"/F/Kodowanie/Free Code Camp/weather app/css/style.css",
+		"/F/Kodowanie/Free Code Camp/weather app/index.html",
+		"/F/Kodowanie/Free Code Camp/random quote machine/js/script.js",
+		"/F/Kodowanie/Free Code Camp/random quote machine/index.html",
+		"/F/Kodowanie/Free Code Camp/random quote machine/css/style.css",
+		"/F/Kodowanie/Free Code Camp/random quote machine/css/queries.css",
+		"/C/Users/Asus/Desktop/Nowy folder/Cherry/index.html",
+		"/C/Users/Asus/Desktop/Nowy folder/Cherry/vendors/css/grid.css",
+		"/C/Users/Asus/Desktop/Nowy folder/Cherry/resources/css/style.css",
+		"/C/Users/Asus/Desktop/Nowy folder/Cherry/resources/index.html",
+		"/C/Users/Asus/desktop/lambda/js-minicamp-homework-4/exercises.js",
+		"/C/Users/Asus/Desktop/js-4.js",
+		"/C/Users/Asus/desktop/lambda/js-minicamp-homework-4/exercise.js",
+		"/C/Users/Asus/desktop/lambda/js-minicamp-homework-3/exercises.js",
+		"/C/Users/Asus/desktop/lambda/js-minicamp-homework-2/exercises.js",
+		"/C/Users/Asus/Desktop/lambda/js-minicamp-homework-1/exercises.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
