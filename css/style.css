@@ -1,3 +1,5 @@
+/******* MAIN ELEMENTS *********/
+
 * {
 	box-sizing: border-box;
 	margin: 0;
@@ -16,14 +18,22 @@ header {
 	height: 110px;
 }
 
-#logo {
-	padding: 20px 0 0 10px;
+footer {
+	width: 946px;
+	height: auto;
+	margin: 25px auto 0;
+	background-color: #2a3333;
+	padding-left: 5px;
+	color: #fff;
+} 
+
+/******* RESUSABLE COMPONENTS ********/
+
+p {
+	font-size: 13px;
 }
 
-.menu {
-	background-color: #2a3333;
-	padding: 13px 0 13px 0;
-}
+/******* NAVIGATION MENU *********/
 
 li {
 	display: inline;
@@ -41,8 +51,31 @@ li a {
 	color: #fff;
 }
 
+.menu {
+	background-color: #2a3333;
+	padding: 13px 0 13px 0;
+}
+
+#logo {
+	padding: 20px 0 0 10px;
+}
+
+/******* MAIN SECTION *********/
+
 .main-img-section {
 	position: relative;
+}
+
+.main-text {
+	width: 920px;
+	position: absolute;
+	bottom: 46px;
+	left: 20px;
+	padding: 14px 14px 14px 10px;
+	height: 74px;
+	color: #fff;
+	background: rgba(42, 51, 51, 0.7);
+	line-height: 1.8;	 
 }
 
 #main-img {
@@ -53,18 +86,44 @@ li a {
 	margin: 30px 7px;
 }
 
-.main-text {
-	font-size: 12px;
-	width: 920px;
-	position: absolute;
-	bottom: 46px;
-	left: 20px;
-	padding: 14px 14px 14px 10px;
+/******* COLUMNS SECTION *********/
 
-	height: 74px;
-	color: #fff;
-	background: rgba(42, 51, 51, 0.8);
-	line-height: 1.8;
-
-	 
+.info {
+	padding: 10px;
 }
+
+#first-column,
+#second-column,
+#third-column {
+	position: relative;
+	display: inline-block;
+	width: 31%;
+	padding-left: 20px;
+	margin-left: 10px;
+}
+
+#first-column, 
+#second-column {
+	margin-right: 10px;
+}
+
+#first-column img,
+#second-column img,
+#third-column img {
+	position: absolute;
+	top: -4px;
+	left: -20px;
+}
+
+.column-text h3 {
+	padding-bottom: 20px;
+}
+
+.column-text p {
+	line-height: 1.6;
+}
+
+.end-text {
+	padding-left: 5px;
+}
+
